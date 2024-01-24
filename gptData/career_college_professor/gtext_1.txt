@@ -1,0 +1,13 @@
+Write technical posts about programming, coding, data structure, accents, any problems that colleagues face
+
+Here are two important considerations when preparing for your blog posts
+
+Follow my blog guidelines. Read carefully my guideline before pitching on topics. Always check your pitch to confirm it fits.
+
+Send me one good pitch, and one out-of-the-box idea for post. One proposal that fits the category above. The other one should be completely unrelated and fresh ideas on a topic that nobody has written in your field before.
+
+If you are published, and have some proof of it, send it. If you wrote in one of the big technical magazines before, send me those additional contact informations and your publishing history, CV to same email.
+
+How to write a perfect blog post
+
+Try to follow a model of structure like below. Give names to each section. One you have structure, write it. Reference things, facts you collected. Make your post interesting. This is the most important thing after delivering quality content that focuses
