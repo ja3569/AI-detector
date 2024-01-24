@@ -1,0 +1,48 @@
+TID,Sentence,AI Likelihood,AI Detection
+1,"University of Montana Athletics Last chance for Griz-Cat student tickets - University of Montana Athletics Skip to main content Skip Ad Close Ad University of Montana Athletics Sports Men 's Sports Basketball Cross Country Football Tennis Track & Field Women 's Sports Basketball Cross Country Golf Soccer Softball Tennis Track & Field Volleyball Inside Athletics Quick Links Ask A Question Facilities Compliance Internship Opportunities Donation Requests Poster Requests Hall of Fame Athletic Performance Athletic Training Brawl of the Wild Athletics Diversity & Inclusion Committee Camps Copper Connection Department Policies Directions , Maps , & Local Info Employment Opportunities FAQs General News Archive Griz Home Team Monte 's Den Monte 's Kids Club Spirit Squad Sponsorship Opportunities Staff Directory Strategic Plan Student-Athlete Handbook Promotions Visiting Team Guide Academics Athlete Academic Services Griz in the Community Life Skills SAAC Fan Zone Griz All Access Game Day Central Inside the Den Podcast Live Stats The Red Book Good Ol ' Grizzlies The Griz NIL Exchange Event Parking Griz Mobile App Student Rewards Zoo Crew Commemorative Tickets Grizzly Sports Information Grizzly Sports Radio Network Griz Vision Messages Sportsmanship UM Student Tickets Where to Watch Donate Tickets Ticket Central Ticket Alert Subscriptions UM Student Tickets Griz Tix GSA Seating Maps Washington-Grizzly Stadium Club Griz Shop Skip Ad Skip Ad University of Montana Athletics Last chance for Griz-Cat student tickets 11/9/2023 11:41:00 AM | Football , General , Men 's Basketball , Volleyball Share : By : Montana Sports Information University of Montana students have been packing into Washington-Grizzly Stadium this fall , posting the highest student attendance average in more than a decade .",11.33%,N
+2,"It 's no surprise , then , that tickets for this year 's Brawl of the Wild vs. Montana State were gone within minutes .",39.27%,N
+3,Zoo Crew members – Montana 's student section membership group – received access to tickets on Nov. 1 .,18.25%,N
+4,"The rest of the tickets became available to the student body on Monday , and were all claimed in less than an hour .",37.08%,N
+5,"Students who were unable to claim a Griz-Cat ticket , though , have one more chance to do so .",39.48%,N
+6,Griz Athletics is providing 10 additional tickets to students next week .,22.24%,N
+7,Here is how students can enter to win the remaining tickets : Next week is a huge week on campus .,64.64%,Y
+8,"Not only does football host the Brawl of the Wild , but women 's basketball welcomes in the defending Pac-12 champion and nationally ranked Washington State Cougars ( Tuesday , 7 p.m. ) ; volleyball plays its final two home matches ( Thursday at 4 p.m. vs. Portland State , Saturday at 7 p.m. vs. Sacramento State ) ; and men 's basketball hosts North Dakota State following Thursday 's volleyball match ( Thursday , 8 p.m. ) .",20.07%,N
+9,"Students are encouraged to attend all of the home events , which all are free to attend .",24.85%,N
+10,"However , the more events a student attends next week , the more
+
+and goa_
+
+After analyzing that word list, I immediately ran a test against the Psalms corpus to see how well it would rhyme those words.",62.84%,Y
+11,"Here's a snippet:
+
+Then looked upon Psalm and upon PsalmThirdAnd saw the inability of this piece to come anywhere close,This verse spoke to himAnd the Psalmist then respondedAnd said,Slack attempt!",79.03%,Y
+12,That one will never do.,40.23%,N
+13,The approach I decided to take for this third rhyme bucket concerned a set of Wordnik search queries.,63.85%,Y
+14,"Here, I simply adapt the previous two examples, changing the search words, and rewording them to make more sense in the context.",63.61%,Y
+15,"So, I did a search on Psalms and Creative Commons.",65.81%,Y
+16,"This one also came back as a failure:
+
+And patient patience will also waitUntil things are done to break down the weight.",68.31%,Y
+17,"To be sure, I'm finding these rhymes fast and easy to make, but there's no rule that says you have to be happy with the results.",51.79%,Y
+18,"I gave the Quinetodeae hymn a once-over, and if I had to guess, I'd rank it a solid thirty-two on our 'lin.'",68.16%,Y
+19,"That's an improvement over the Ophiocistax hymn, that at least passes an implicit check, one that seems to allow rhymes like ""hone"" and ""don't.""",72.83%,Y
+20,"Onward, therefore, for the factoid consolation that the more difficult examers are the easiest to make.",49.63%,N
+21,"This one has a much more sensible sounding rhyme:
+
+Then overcame the stiffness of the Psalm's refusal to provide fun rhymesFor it is necessary that the words must provide comfort and amusementAnd evince beauty in these words so enjoyed.",76.17%,Y
+22,"But that's nothing compared to a likely source of inspiration for a proposed new hymn:
+
+And next he moved on to Psalms and sentriesAnd quickly found a digital reflection of celestial symphonies.",75.82%,Y
+23,"So it seems that Wordnik has begun to catch on to the algorithm, but it also appears that it still hasn't gotten around to breaking it or even substantially attenuating it, since I don't see a great deal of hand curation here.",39.74%,N
+24,"Mostly, it's automated targeting and WordPress filters doing the work Peter explains above:
+
+Pros
+
+- They're choosing source materials that don't have many repetitions
+- Their algorithms are finding meaningful connections between English words and Biblical verses
+- The end result paragraphs are fun and entertaining
+
+Cons
+
+- They seem to offer no official explanation of the choices they",75.57%,Y
+,,51.28%,
